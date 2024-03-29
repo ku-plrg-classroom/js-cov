@@ -1,0 +1,8 @@
+[
+  ["sum", 10],
+  ["sumWhile", 0],
+  ["sumDoWhile", -10],
+  ["sumForIn", { "p1": 3, "p2": 5, "p3": 7 }],
+  ["sumForOf", [1, 2, 3, 4, 5]],
+  ["unknown", 42]
+]

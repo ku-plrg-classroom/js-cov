@@ -1,0 +1,28 @@
+## Basic ignore files
+*.class
+*.log
+*.swo
+*.swp
+.bloop/
+.bsp/
+.cache/
+.history
+.history/
+.lib/
+.metals/
+logs/
+
+## macOS
+.DS_Store
+
+# node projects
+**/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+dist
+
+# IDEs
+.idea/
+.vscode/

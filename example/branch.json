@@ -1,0 +1,6 @@
+[
+  ["cond", 5],
+  ["abs", 5],
+  ["shortAbs", -5],
+  ["unknown", 42]
+]
